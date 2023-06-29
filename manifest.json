@@ -2,7 +2,7 @@
   "name": "Detach Selected Instances",
   "id": "1216275476214886396",
   "api": "1.0.0",
-  "main": "dist/code.js",
+  "main": "code.js",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": [
