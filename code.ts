@@ -8,7 +8,7 @@ if (selections.length > 0) {
   figma.notify("Completed to detach instances.");
 } else {
   // 選択中の要素が無ければ、Figmaの下部にメッセージを表示
-  figma.notify("Select any object");
+  figma.notify("Select any object.");
 }
 // プラグインを終了
 figma.closePlugin();
